@@ -22,7 +22,7 @@ golem::fill_desc(
   author_first_name = "Emily", # Your First Name
   author_last_name = "Jennings-Dobbs", # Your Last Name
   author_email = "emily@nutrientinstitute.org", # Your Email
-  repo_url = "https://github.com/NutrientInstitute/citation", # The URL of the GitHub Repo (optional),
+  repo_url = "https://github.com/NutrientInstitute/citation.git", # The URL of the GitHub Repo (optional),
   pkg_version = "0.0.0.9000" # The Version of the package containing the App
 )
 
