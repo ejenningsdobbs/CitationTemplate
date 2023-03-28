@@ -1,0 +1,24 @@
+<style type="text/css">
+.main-container {
+    width: 100%;
+    max-width: unset;
+}
+body, td {
+   font-size: 16px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+pre code {
+  white-space: pre-wrap;
+}
+
+h1.title {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+</style>
